@@ -121,7 +121,7 @@
                     <div class="s-intro__content-bottom">
                         <h1 class="s-intro__content-title">Nuestro sitio se lanzará pronto.</h1>
                         <p>
-                            Vulcano Cyber Treath Hunters © es una compañía de ciberseguridad compuesta por profesionales interdisciplinarios, que tiene como objetivo ayudar a las organizaciones a desarrollar una mejor TI para que la continuidad de los negocios facilite sus operaciones
+                            Vulcano Cyber Threat Hunters © es una compañía de ciberseguridad compuesta por profesionales interdisciplinarios, que tiene como objetivo ayudar a las organizaciones a desarrollar una mejor TI para que la continuidad de los negocios facilite sus operaciones
                         </p>
                     </div>
 
@@ -183,7 +183,7 @@
                             <div class="row">
                                 <div class="column">
                                     <p class="lead">
-                                    Vulcano Cyber Treath Hunters © es una compañía de ciberseguridad compuesta por profesionales interdisciplinarios, 
+                                    Vulcano Cyber Threat Hunters © es una compañía de ciberseguridad compuesta por profesionales interdisciplinarios, 
                                     que tiene como objetivo ayudar a las organizaciones a desarrollar una mejor TI para que la continuidad de los negocios 
                                     facilite sus operaciones en todo momento y ayudarle a resolver situaciones tecnológicas que puedan representar riesgos o amenazas, 
                                     en un espacio confiable, cercano y accesible donde las empresas encuentren un asesor confiable y experto. 
@@ -232,7 +232,7 @@
                             <div class="row">
                                 <div class="column">
                                     <p class="lead">
-                                    Vulcano Cyber Treath Hunters © es una compañía de ciberseguridad integral. 
+                                    Vulcano Cyber Threat Hunters © es una compañía de ciberseguridad integral. 
                                     Desarrollamos soluciones basadas en los principios fundamentales del buen diseño tecnológico: 
                                     alta calidad, una experiencia de usuario de primer nivel, y la capacidad de mejorar el rendimiento. 
                                     Además, de apoyar al cliente en sus necesidades reales, demostradas en terreno con el personal más altamente 
@@ -387,7 +387,7 @@
                     <h4 class="h6">Vulcano Cyber Threat Hunters</h4>
                     
                     <p class="desc">
-                    Vulcano Cyber Treath Hunters © es una compañía de ciberseguridad integral. 
+                    Vulcano Cyber Threat Hunters © es una compañía de ciberseguridad integral. 
                     Desarrollamos soluciones basadas en los principios fundamentales del buen diseño tecnológico: 
                     alta calidad, una experiencia de usuario de primer nivel, y la capacidad de mejorar el rendimiento.
                     </p>
